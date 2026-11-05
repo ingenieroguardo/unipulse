@@ -1,12 +1,5 @@
-# Dependencies
-node_modules/
-
-# Build output
-dist/
-build/
-
-# Logs & OS files
-*.log
 .DS_Store
+node_modules/
+dist/
 .kiro/history/
 .kiro/checkpoint/
